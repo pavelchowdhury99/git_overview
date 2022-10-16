@@ -42,3 +42,5 @@
 
 
 5. Git Setup In PC
+   1. [Download Git](https://git-scm.com/downloads)
+   2. [Download Github Desktop](https://desktop.github.com/)
