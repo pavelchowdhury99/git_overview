@@ -1,6 +1,6 @@
 # What is Git version control system and how to set Git in your System
 
-1. What are version control systems
+1. What is Git
    - Git is free and open source software for distributed version control.
 
 
