@@ -2,6 +2,7 @@
 
 1. What is Git
    - Git is free and open source software for distributed version control.
+   - CVCS VS DVCS <br> ![CVCS VS DVCS](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190820174942/CVCS-vs-DVCS.png)
 
 
 2. Features of Git
