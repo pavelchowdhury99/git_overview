@@ -1,1 +1,2 @@
-A sample test line
+A sample test line test
+new line
