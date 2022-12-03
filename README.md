@@ -45,3 +45,6 @@
 5. Git Setup In PC
    1. [Download Git](https://git-scm.com/downloads)
    2. [Download Github Desktop](https://desktop.github.com/)
+
+## Walkthrough
+[![Git Tutorial | What is Git Version Control? | How to install and use Git? | Naukri Learning](https://yt-embed.herokuapp.com/embed?v=BiX95aSJbfE)](https://youtu.be/BiX95aSJbfE "Git Tutorial | What is Git Version Control? | How to install and use Git? | Naukri Learning")
